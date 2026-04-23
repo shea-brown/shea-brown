@@ -4,4 +4,4 @@ My interest lies in the art of creation. Programming and engineering are often a
 
 I seek to create meaningful, sustainable, and positively impactful work.
 
-Check out my flagship project, [Sublime Plants](https://github.com/sublimeplants)
+Check out [Sublime Grow Systems](https://github.com/sublimegrow)
